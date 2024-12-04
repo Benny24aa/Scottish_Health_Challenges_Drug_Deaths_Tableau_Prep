@@ -44,7 +44,7 @@ drug_deaths_line_graph_theme <- theme(axis.title = element_text(colour="#06402b"
                                       axis.title.x = element_text(size=14),
                                       axis.title.y = element_text(size=14),
                                       panel.background = element_blank(),
-                                      panel.grid.major.y = element_blank(),
+                                      panel.grid.major.y = element_line(colour = "grey"),
                                       panel.grid.major.x = element_blank(),
                                       axis.line.x = element_line(colour="black"),
                                       axis.line.y = element_line(colour="black"))
@@ -54,7 +54,25 @@ scotland_drug_rates_plot <- scotland_drug_death_numbers_final %>%
   geom_line(linewidth = 1.5, color = "#06402b") +
   geom_point(color = '#06402b', size = 2.5)+
   labs(x = 'Year',
-       y = 'Age-sex standardised rate per 100000')
+       y = 'Age-sex standardised rate per 100000')+
+  drug_deaths_line_graph_theme
+
+# save out plot for power point
+
+ggsave("drug_death_rate_graph.png",
+       plot = scotland_drug_rates_plot,
+       height = 5,
+       width = 10,
+       dpi = 300)
+
+### Establishing Scottish Death Numerator Date
+
+scotland_drug_death_number_plot <- scotland_drug_death_numbers_final %>% 
+  ggplot(aes(x = trend_axis, y = numerator, color)) +
+  geom_line(linewidth = 1.5, color = "#06402b") +
+  geom_point(color = '#06402b', size = 2.5)+
+  labs(x = 'Year',
+       y = 'Number of Deaths')+
   drug_deaths_line_graph_theme
 
 # save out plot for power point

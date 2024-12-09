@@ -1,0 +1,316 @@
+"code","areatype","areaname","indicator","type_definition","definition_period","trend_axis","numerator","measure","upper_confidence_interval","lower_confidence_interval"
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",381,7.2,8,6.5
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",33,9.3,13.1,6.4
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",NA,0,0,0
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",9,7.6,14.4,3.4
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",12,3.5,6.2,1.8
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",24,8.4,12.6,5.4
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",46,8,10.7,5.9
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",147,12.2,14.4,10.3
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",13,4.5,7.7,2.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",42,6.4,8.7,4.6
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",39,4.3,5.9,3.1
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",NA,4.8,26.9,0.1
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",14,3.6,6,1.9
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2002 calendar year","2002",NA,3.8,21,0
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",315,6,6.7,5.3
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",18,5.1,8.1,3
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",NA,1.8,6.5,0.2
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",9,7.2,13.8,3.2
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",13,3.6,6.2,1.9
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",12,4.2,7.4,2.2
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",37,6.3,8.7,4.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",124,10.4,12.5,8.7
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",10,3.2,6,1.5
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",30,4.6,6.5,3.1
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",40,4.6,6.3,3.3
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",NA,0,0,0
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",19,4.8,7.5,2.9
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2003 calendar year","2003",NA,5.2,28.8,0.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",351,6.7,7.4,6
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",20,5.6,8.6,3.4
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",NA,2.1,7.8,0.2
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",7,5.5,11.5,2.2
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",17,4.7,7.5,2.7
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",16,5.6,9,3.2
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",38,6.7,9.2,4.7
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",144,12.3,14.5,10.3
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",12,4.3,7.5,2.2
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",37,5.6,7.8,4
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",35,4,5.6,2.8
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",NA,0,0,0
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",23,6,8.9,3.8
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2004 calendar year","2004",NA,0,0,0
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",335,6.4,7.1,5.7
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",15,4.2,6.9,2.3
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",7,8,16.6,3.1
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",7,5.4,11.2,2.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",21,6,9.2,3.7
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",13,4.7,8,2.5
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",23,4,6.1,2.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",109,9.3,11.3,7.7
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",13,4.7,8,2.5
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",41,6.1,8.3,4.4
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",58,7.3,9.6,5.4
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",NA,4.3,23.9,0.1
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",26,6.7,9.9,4.4
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2005 calendar year","2005",NA,4.9,27.3,0.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",420,8,8.8,7.2
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",22,6.2,9.5,3.9
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",NA,1.7,6.2,0.2
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",5,3.8,8.9,1.2
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",24,8.3,12.4,5.3
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",45,7.8,10.4,5.7
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",12,4.4,7.6,2.2
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",42,4.8,6.5,3.5
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",NA,6.6,36.5,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",NA,9.4,33.8,1.1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",NA,4.7,26.4,0.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",18,5.1,8,3
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",35,9.2,12.8,6.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",155,13.4,15.7,11.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2006 calendar year","2006",46,7.1,9.5,5.2
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",455,8.6,9.4,7.8
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",36,10.3,14.3,7.2
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",NA,4.1,10.7,1
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",10,8,14.8,3.8
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",26,9.1,13.4,5.9
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",44,7.6,10.3,5.5
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",16,5.5,8.9,3.1
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",52,5.9,7.7,4.4
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",NA,8.3,30,0.9
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",NA,0,0,0
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",28,7.8,11.3,5.2
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",29,7.6,10.9,5
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",146,12.5,14.8,10.6
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2007 calendar year","2007",57,8.7,11.3,6.6
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",574,10.8,11.8,10
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",39,11.3,15.4,8
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",7,7,14.5,2.7
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",8,6.3,12.6,2.7
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",22,7.5,11.4,4.7
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",39,6.6,9.1,4.7
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",24,8.2,12.2,5.2
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",93,10.5,12.8,8.4
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",NA,7.1,39.6,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",NA,4.6,25.7,0.1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",NA,14,40.9,2.8
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",37,10.1,13.9,7.1
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",52,13.6,17.9,10.1
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",187,16.1,18.6,13.9
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2008 calendar year","2008",53,8,10.4,5.9
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",545,10.3,11.2,9.4
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",38,11.3,15.6,8
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",5,5.1,12.1,1.6
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",8,6.5,12.9,2.7
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",14,4.8,8.1,2.6
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",52,8.9,11.7,6.6
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",21,6.9,10.6,4.3
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",81,9.2,11.4,7.3
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",NA,0,0,0
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",NA,8.3,30.3,0.9
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",32,9.1,12.9,6.2
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",44,11.4,15.3,8.3
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",193,16.6,19.2,14.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2009 calendar year","2009",54,8.2,10.7,6.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",485,9.1,10,8.3
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",31,8.8,12.6,6
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",9,9,17.2,4
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",5,3.5,8.2,1.1
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",18,6.2,9.9,3.7
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",43,7.1,9.6,5.2
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",10,3.3,6.1,1.6
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",73,8.3,10.4,6.5
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",NA,9.7,35.1,1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",NA,8.5,30.8,1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",NA,3.6,20,0
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",35,10.2,14.2,7.1
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",34,8.6,12,5.9
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",158,13.5,15.8,11.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2010 calendar year","2010",62,9.5,12.2,7.3
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",584,11,12,10.1
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",47,13.1,17.5,9.6
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",8,8.8,17.4,3.7
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",12,9.6,17,4.9
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",26,8.8,12.9,5.7
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",58,9.7,12.6,7.4
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",33,11.5,16.1,7.9
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",73,8.1,10.2,6.3
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",NA,13.6,39.6,2.7
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",NA,4.3,24.2,0.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",34,9.8,13.7,6.8
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",45,11.9,15.9,8.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",183,15.8,18.3,13.6
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2011 calendar year","2011",61,9.3,12,7.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",581,11,11.9,10.1
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",42,12.1,16.3,8.7
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",7,6.3,13.1,2.4
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",6,4.7,10.3,1.7
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",31,10.5,15,7.1
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",31,5.2,7.4,3.5
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",22,7.2,10.9,4.5
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",90,10.5,12.9,8.4
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",NA,4.9,27.1,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",NA,8.8,31.7,1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",NA,3.5,19.3,0
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",38,10.8,14.8,7.6
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",55,14,18.3,10.5
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",187,16.4,19,14.1
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2012 calendar year","2012",67,10.3,13.1,8
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",527,10,10.9,9.2
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",36,11,15.3,7.7
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",8,8.6,17.1,3.6
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",9,7.1,13.7,3.2
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",24,8.1,12.1,5.2
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",50,8.8,11.6,6.5
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",18,6.1,9.7,3.6
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",89,10.2,12.6,8.2
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",NA,5.2,29.2,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",NA,0,0,0
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",NA,6.7,24.1,0.7
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",40,11.6,15.9,8.3
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",37,9.5,13.1,6.7
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",138,12,14.2,10.1
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2013 calendar year","2013",75,11.6,14.5,9.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",614,11.7,12.7,10.8
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",43,13,17.5,9.3
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",11,12.7,22.8,6.2
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",14,10.9,18.5,5.8
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",25,8.4,12.4,5.4
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",36,6.1,8.4,4.2
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",25,8.2,12.1,5.2
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",105,11.9,14.4,9.7
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",NA,0,0,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",NA,18.2,46.8,4.9
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",NA,4.6,25.4,0.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",47,13.6,18.2,10
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",48,12.4,16.5,9.1
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",189,16.8,19.4,14.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2014 calendar year","2014",66,10.3,13.1,7.9
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",706,13.5,14.6,12.5
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",43,12.9,17.4,9.3
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",13,11.9,20.5,6.2
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",11,9.4,16.9,4.6
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",31,10.6,15.1,7.2
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",69,11.8,14.9,9.2
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",35,11.3,15.8,7.8
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",100,11.5,14,9.3
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",NA,5.1,28.3,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",NA,4,22.1,0.1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",NA,3.3,18.4,0
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",44,13.1,17.6,9.5
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",62,16.2,20.8,12.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",221,19.6,22.4,17.1
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2015 calendar year","2015",73,11.3,14.2,8.9
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",868,16.7,17.8,15.6
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",85,26.8,33.1,21.3
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",10,10.3,19.2,4.8
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",17,14.5,23.4,8.3
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",51,18.5,24.5,13.7
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",68,11.7,14.9,9.1
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",29,9.5,13.7,6.3
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",128,14.4,17.2,12
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",NA,4,22.2,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",NA,5,28,0.1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",NA,4.3,23.8,0.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",45,13.4,18,9.8
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",62,16.5,21.1,12.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",257,22.7,25.7,20
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2016 calendar year","2016",113,17.7,21.3,14.5
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",934,18,19.2,16.9
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",61,18.5,23.8,14.1
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",13,12.5,21.6,6.5
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",22,19.5,29.7,12.1
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",36,12.5,17.3,8.7
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",85,14.8,18.3,11.8
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",32,10.9,15.5,7.5
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",137,15.6,18.4,13.1
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",NA,5.2,28.8,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",NA,7.7,27.9,0.9
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",NA,11.2,33.1,2.2
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",66,19.4,24.7,14.9
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",94,25.3,31,20.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",280,24.8,27.9,22
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2017 calendar year","2017",102,16.1,19.5,13.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",1187,23,24.4,21.7
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",82,26,32.3,20.6
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",22,24,36.5,14.9
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",20,16.8,26,10.2
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",72,25,31.6,19.6
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",92,16.3,20,13.1
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",45,15.5,20.8,11.2
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",152,17.3,20.3,14.7
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",NA,14.6,43.2,2.7
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",NA,0,0,0
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",NA,9.8,35.4,1.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",64,19.2,24.5,14.7
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",109,28.8,34.8,23.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",394,35.1,38.7,31.7
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2018 calendar year","2018",130,20.2,24,16.9
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",1280,24.9,26.3,23.6
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",108,34.2,41.4,28
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",17,16.2,26.1,9.3
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",35,31.3,43.7,21.6
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",75,26.7,33.5,21
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",82,14.4,17.9,11.5
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",39,13.7,18.7,9.7
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",155,17.5,20.5,14.8
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",NA,3.7,20.9,0
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",NA,9.1,32.8,1
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",NA,0,0,0
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",81,23.8,29.7,18.9
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",118,31.9,38.2,26.3
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",404,35.9,39.6,32.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2019 calendar year","2019",163,25.6,29.9,21.8
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",1339,25.9,27.4,24.6
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",106,33.1,40.1,27
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",18,18.9,30.2,11
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",22,18.3,28,11.4
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",77,27.1,33.9,21.3
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",99,17.7,21.6,14.4
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",49,16.8,22.3,12.4
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",159,18.2,21.2,15.4
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",NA,14.7,43.2,2.9
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",NA,17.5,45,4.5
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",NA,15.4,45,3.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",65,19.4,24.7,14.9
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",105,29,35.1,23.6
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",444,39,42.8,35.4
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2020 calendar year","2020",185,28.9,33.4,24.9
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",1330,25.8,27.2,24.4
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",100,31.5,38.4,25.6
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",17,18.3,29.5,10.6
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",35,29.3,41.1,20.2
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",69,24.1,30.6,18.8
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",110,19.8,23.9,16.3
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",44,15.7,21.1,11.4
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",180,20.4,23.6,17.5
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",NA,6.5,36.3,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",NA,18.1,46.5,4.8
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",NA,16.5,48.3,3.3
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",70,20.9,26.4,16.3
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",89,23.8,29.4,19.1
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",427,38,41.8,34.5
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2021 calendar year","2021",181,28.1,32.5,24.1
+"S00000001","Scotland","Scotland","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",1051,20.2,21.5,19
+"S08000015","Health board","NHS Ayrshire & Arran","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",82,25.5,31.7,20.2
+"S08000016","Health board","NHS Borders","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",13,12.7,22,6.6
+"S08000017","Health board","NHS Dumfries & Galloway","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",37,31.5,43.6,22
+"S08000019","Health board","NHS Forth Valley","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",47,16.7,22.2,12.2
+"S08000020","Health board","NHS Grampian","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",75,13.3,16.6,10.4
+"S08000022","Health board","NHS Highland","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",55,18.9,24.7,14.2
+"S08000024","Health board","NHS Lothian","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",166,18.9,22,16.1
+"S08000025","Health board","NHS Orkney","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",NA,5.1,28.4,0.1
+"S08000026","Health board","NHS Shetland","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",NA,14.5,42.5,2.9
+"S08000028","Health board","NHS Western Isles","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",NA,5,28,0.1
+"S08000029","Health board","NHS Fife","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",59,17.3,22.4,13.2
+"S08000030","Health board","NHS Tayside","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",77,20.8,26.1,16.4
+"S08000031","Health board","NHS Greater Glasgow & Clyde","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",300,26.4,29.6,23.5
+"S08000032","Health board","NHS Lanarkshire","Drug-related deaths","Age-sex standardised rate per 100,000","2022 calendar year","2022",135,21,24.9,17.6
